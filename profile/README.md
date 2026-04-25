@@ -12,11 +12,11 @@ eNOtech is a forward-thinking technology company building scalable digital solut
 
 Our ecosystem is centered around modular, API-first platforms:
 
--   🎟️ **e-tickets** --- A full-stack ticketing and booking system for events, transport, and experiences
--   💸 **OpenFlow (SDK)** --- Real-time payment orchestration platform built for modern fintech use cases
--   🪙 **Coins (Beta Kit)** --- Experimental infrastructure for the **agentic economy**, enabling micro-transactions per API call using USDC
--   🧠 **AInoBuild** --- AI-driven media and automation engine for content, engagement, and storytelling
--   🧩 **TrustID (In Progress)** --- Business optimization and digital identity systems
+-   🎟️ **e-tickets** - A full-stack ticketing and booking system for events, transport, and experiences
+-   💸 **OpenFlow (SDK)** - Real-time payment orchestration platform built for modern fintech use cases
+-   🪙 **Coins (Beta Kit)** - Experimental infrastructure for the **agentic economy**, enabling micro-transactions per API call using USDC
+-   🧠 **AInoBuild** - AI-driven media and automation engine for content, engagement, and storytelling
+-   🧩 **TrustID (In Progress)** - Business optimization and digital identity systems
 
 * * * * *
 
