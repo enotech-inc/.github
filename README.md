@@ -1,2 +1,5 @@
-# .github-private
-In essence, eNOtech stands out as a company that blends ambition with discipline. It is not just building technology—it is building systems, foundations, and pathways for sustainable digital progress.
+# HOT
+eNOtech represents a balance of ambition and disciplined execution.
+We don’t just build technology—we architect systems, establish foundations, and create pathways for sustainable digital progress.
+
+Our work is grounded in long-term thinking: designing scalable infrastructure, enabling real-world impact, and shaping how modern digital ecosystems evolve.
